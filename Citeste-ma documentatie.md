@@ -10,5 +10,5 @@ Momentan am desenat schita manual, va urma sa o pregatesc in Adobe Illustrator c
 
 Ideea are ca baza exemplele de aplicatii precum : Netflix (ce este specializat pe seriale) fiind in cadrul legal, sau un alt exemplu chiar cu filme si nu seriale este : Popcorn movie app fiind in cadru Ilegal (torrente) si aflate pe servere pe insule fara legislatii. 
 
-User-ul v-a putea face log in sau sign up de pe pagina personala. v-a avea acces la nenumerate taburi precum, evenimente, promotii, vouchere, program, filme si chiar Premium VIP.
+User-ul v-a putea face log in sau sign up de pe pagina principala. v-a avea acces la nenumerate taburi precum, evenimente, promotii, vouchere, program, filme si chiar Premium VIP.
 Premium VIP va fii un abonament exclusiv cu un cost mai mare unde utilizatorii au accesul de a viziona filme 4k sau 3D si optiunea de a schimba tematica site-ului (inca nu sunt sigur de asta)
