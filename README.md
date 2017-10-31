@@ -1,2 +1,0 @@
-# CinemaDeAcasa
-Cinema Acasa
